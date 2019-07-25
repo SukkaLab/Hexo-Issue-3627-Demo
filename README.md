@@ -14,3 +14,10 @@ $ cd Hexo-Issue-3627-Demo
 $ yarn
 $ hexo s
 ```
+
+## Demo
+
+- https://lab.skk.moe/Hexo-Issue-3627-Demo/2019/07/25/hljs-perf-test-1/
+- https://lab.skk.moe/Hexo-Issue-3627-Demo/2019/07/25/hljs-perf-test-2/
+- https://lab.skk.moe/Hexo-Issue-3627-Demo/2019/07/25/hljs-perf-test-3/
+- https://lab.skk.moe/Hexo-Issue-3627-Demo/2019/07/25/hljs-perf-test-4/

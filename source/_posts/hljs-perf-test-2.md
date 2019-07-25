@@ -4,7 +4,7 @@ date: 2019-07-19 12:04:58
 tags:
 ---
 
-This post is exactly the same as the issue
+This post has exactly the same content the issue provided.
 
 <!--more-->
 
